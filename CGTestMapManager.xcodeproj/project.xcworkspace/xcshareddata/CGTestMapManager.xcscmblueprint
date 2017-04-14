@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F5B33E67BE802BD9AD0E579D528C2C31DC1640D2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2D066DD1D68A02CC12C059C6D5389C09D7258038" : 9223372036854775807,
+    "F5B33E67BE802BD9AD0E579D528C2C31DC1640D2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FBA793A6-11E0-4220-B838-339959418BB4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2D066DD1D68A02CC12C059C6D5389C09D7258038" : "TestMapManager\/CGMapManager\/",
+    "F5B33E67BE802BD9AD0E579D528C2C31DC1640D2" : "TestMapManager\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CGTestMapManager",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CGTestMapManager.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:root338\/CGMapManager.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2D066DD1D68A02CC12C059C6D5389C09D7258038"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:root338\/TestMapManager.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F5B33E67BE802BD9AD0E579D528C2C31DC1640D2"
+    }
+  ]
+}

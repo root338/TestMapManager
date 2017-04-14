@@ -1,0 +1,3 @@
+[submodule "CGMapManager"]
+	path = CGMapManager
+	url = git@github.com:root338/CGMapManager.git
